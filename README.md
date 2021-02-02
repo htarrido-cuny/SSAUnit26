@@ -24,20 +24,21 @@ The overall class schedule will be as follow:
 
 Lectures will be given in the old school way, with a digital chalkboard and a digital paper. The lectures will NOT be recorded and students are expected to take notes and actively ask questions and participate in the subject matter that is being presented. The mini-lecture series is as follows:
 
-Lectures	| Hours for Lecture |	Content Link
-Refreshing Computing and Data fundamentals	| 1.5	
-On unstructured collaboration: GitLab, Version Control, Agile Development	| 1	
-Point, lines, polygons, Multipatches, Tables, SQL Queries |	1	
-Introduction to Python	| 1	
-Leveraging Python for Preprocessing Data	| 1	
-Non Geospatial Visualizations	| 1	
-Geospatial Visualizations	| 1	
-Introduction to Statistical Analysis |	1	
-Densities	| 1	
-What are Networks?	| 1	
-What do networks tell us? |	1	
-Building Workflows: GIS, CityEngine, Rhino |	1	
-Leveareging Python in CityEngine	| 1	
+| Lectures	| Hours for Lecture |	Content Link |
+| --- | --- | --- | 
+| Refreshing Computing and Data fundamentals	| 1.5	| TBD |
+| On unstructured collaboration: GitLab, Version Control, Agile Development	| 1	| TBD |
+| Point, lines, polygons, Multipatches, Tables, SQL Queries |	1	| TBD |
+| Introduction to Python	| 1	| TBD |
+| Leveraging Python for Preprocessing Data	| 1	| TBD |
+| Non Geospatial Visualizations	| 1	| TBD |
+| Geospatial Visualizations	| 1	| TBD |
+| Introduction to Statistical Analysis | 1 | TBD |
+| Densities	| 1	| TBD |
+| What are Networks?	| 1	| TBD |
+| What do networks tell us? |	1	| TBD |
+| Building Workflows: GIS, CityEngine, Rhino |	1	| TBD |
+| Leveareging Python in CityEngine	| 1	| TBD |
 
 ## About software use
 
