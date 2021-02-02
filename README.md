@@ -22,7 +22,8 @@ The overall class schedule will be as follow:
 
 * This schedule is subject to change given Acts of God or changes in class schedule. This schedule content wise is meant to indicate direction of what is going to be taught, but the content might be subject to change given student input.
 
-Lectures will be given in the old school way, with a digital chalkboard and a digital paper. The lectures will NOT be recorded and students are expected to take notes and actively ask questions and participate in the subject matter that is being presented. The mini-lecture series is as follows:
+### Mini-Lectures
+Lectures will be given in the old school way, with a digital chalkboard and a digital paper. Powerpoint slide will not be used. The lectures will NOT be recorded and students are expected to take notes and actively ask questions and participate in the subject matter that is being presented. The mini-lecture series will be as follows:
 
 | Lectures	| Hours for Lecture |	Content Link |
 | --- | --- | --- | 
@@ -38,7 +39,27 @@ Lectures will be given in the old school way, with a digital chalkboard and a di
 | What are Networks?	| 1	| TBD |
 | What do networks tell us? |	1	| TBD |
 | Building Workflows: GIS, CityEngine, Rhino |	1	| TBD |
-| Leveareging Python in CityEngine	| 1	| TBD |
+| Leveraging Python in CityEngine	| 1	| TBD |
+
+### Workshops
+Workshops will be given live with a cheat sheet so students can either watch or follow along later after the workshop. Students are encouraged to follow along to increase brain muscle-information memory of what we are doing. The workshops will be recorded for students to later visit. Students are expected to use what was taught in the workshop into their studio research and projects. The workshops series will be as follows:
+
+| Workshops	| Hours |	Software	| Cheat Sheet Link |
+| — | — | — | — |
+| Where do I find information? |	1	| Web | |	
+|Refreshing Computing and Data fundamentals	| 1.5 |	ArcGIS Pro, Python | |
+| On unstructured collaboration: GitLab, Version Control, Agile Development	| 1	| ArcGIS Pro | |
+| Point, lines, polygons, Multi-patches, Tables, SQL Queries | 1.5	| ArcGIS Pro	 | | 
+| Introduction to Python	 | 1.5 	| Python	 | |
+| Leveraging Python for Preprocessing Data	 | 1.5	| Python | |	
+| Non Geospatial Visualizations	| 1.5 |	Python | |	
+| Geospatial Visualizations	| 1.5	| ArcGIS Pro | |
+| Introduction to Statistical Analysis	 | 1.5 | ArcGIS Pro, Python | |
+| Densities |	1.5 |	ArcGIS Pro	 | |
+| What are Networks? | 	1.5 |	ArcGIS Pro	 | |
+| What do networks tell us? |	1.5 |	ArcGIS Pro | |	
+| Building Workflows: GIS, CityEngine, Rhino |	 1.5 |	ArcGIS Pro, CityEngine, Rhino	| |
+| Leveraging Python in CityEngine |	1.5 |	Python	| |
 
 ## About software use
 
