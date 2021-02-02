@@ -45,7 +45,7 @@ Lectures will be given in the old school way, with a digital chalkboard and a di
 Workshops will be given live with a cheat sheet so students can either watch or follow along later after the workshop. Students are encouraged to follow along to increase brain muscle-information memory of what we are doing. The workshops will be recorded for students to later visit. Students are expected to use what was taught in the workshop into their studio research and projects. The workshops series will be as follows:
 
 | Workshops	| Hours |	Software	| Cheat Sheet Link |
-| — | — | — | — |
+| --- | --- | --- | --- |
 | Where do I find information? |	1	| Web | |	
 |Refreshing Computing and Data fundamentals	| 1.5 |	ArcGIS Pro, Python | |
 | On unstructured collaboration: GitLab, Version Control, Agile Development	| 1	| ArcGIS Pro | |
