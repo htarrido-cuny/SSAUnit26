@@ -25,7 +25,7 @@ We will be using CityEngine late in the semester. So please wait until I give in
 CityEngine (30 - day trial): https://community.esri.com/t5/arcgis-cityengine-documents/cityengine-trial-licenses/ta-p/910488
 
 
-### Rhino (optiona)
+### Rhino (optional)
 Rhino / Grasshopper: https://www.rhino3d.com/download/
 Shrimp GIS Grasshopper Plugin: https://www.food4rhino.com/app/shrimpgis
 
