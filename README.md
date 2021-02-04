@@ -5,6 +5,41 @@ The purpose of this repository is to centralize and support asynchronous, decent
 
 Because of this, this repo will be changed by myself and other students as circumstance call for new pushes and new commits.
 
+## About software use
+
+
+Please make sure you download the software platforms before the beginning of the first lecture.
+
+In the class we will be using four software platforms:
+
+### PyCharm
+1. Go to https://www.jetbrains.com/pycharm/download/
+2. Make sure to install the latest version for your operating system(MAC, Windows)
+
+### ArcGIS Pro
+1. Make sure to sign up to your educational license (1-year free): https://learn-arcgis-learngis.hub.arcgis.com/pages/access-arcgis-software
+2. Then follow the steps to download ArcGIS Pro here: https://pro.arcgis.com/en/pro-app/latest/get-started/download-arcgis-pro.htm
+
+### CityEngine
+We will be using CityEngine late in the semester. So please wait until I give instructions to install it given the 30-day limit.
+CityEngine (30 - day trial): https://community.esri.com/t5/arcgis-cityengine-documents/cityengine-trial-licenses/ta-p/910488
+
+
+### Rhino (optiona)
+Rhino / Grasshopper: https://www.rhino3d.com/download/
+Shrimp GIS Grasshopper Plugin: https://www.food4rhino.com/app/shrimpgis
+
+
+## About Data Sources
+
+The students are expected to find and add new data resources to the repository. We will structure how we organize data in a future class. But for now, here are places where you can find data in different formats:
+
+- NYC Open Data	https://opendata.cityofnewyork.us/
+- NYC Planning	https://www1.nyc.gov/site/planning/data-maps/open-data.page
+- NYC Finance	https://www1.nyc.gov/site/finance/about/open-portal.page
+- NYC DoITT	https://www1.nyc.gov/site/doitt/residents/gis-mapping.page
+- StreetEasy	https://streeteasy.com/blog/download-data/
+
 ## Office Hours
 I will have available office hours on Tuesday from 3:30pm to 4:30pm.
 
@@ -122,29 +157,3 @@ Workshops will be given live with a cheat sheet so students can either watch or 
 | Building Workflows: GIS, CityEngine, Rhino |	 1.5 |	ArcGIS Pro, CityEngine, Rhino	| |
 | Leveraging Python in CityEngine |	1.5 |	Python	| |
 
-## About software use
-
-In the class we will be using four software platforms:
-
-1. Make sure to sign up to your educational license (1-year free): https://learn-arcgis-learngis.hub.arcgis.com/pages/access-arcgis-software
-2. Then follow the steps to download ArcGIS Pro here: https://pro.arcgis.com/en/pro-app/latest/get-started/download-arcgis-pro.htm
-
-CityEngine (30 - day trial): https://community.esri.com/t5/arcgis-cityengine-documents/cityengine-trial-licenses/ta-p/910488
-
-Python: https://www.python.org/downloads/
-
-Rhino / Grasshopper: https://www.rhino3d.com/download/
-
-Shrimp GIS Grasshopper Plugin: https://www.food4rhino.com/app/shrimpgis
-
-Please make sure you download the software platforms before the beginning of the first lecture
-
-## About Data Sources
-
-The students are expected to find and add new data resources to the repository. We will structure how we organize data in a future class. But for now, here are places where you can find data in different formats:
-
-- NYC Open Data	https://opendata.cityofnewyork.us/
-- NYC Planning	https://www1.nyc.gov/site/planning/data-maps/open-data.page
-- NYC Finance	https://www1.nyc.gov/site/finance/about/open-portal.page
-- NYC DoITT	https://www1.nyc.gov/site/doitt/residents/gis-mapping.page
-- StreetEasy	https://streeteasy.com/blog/download-data/
