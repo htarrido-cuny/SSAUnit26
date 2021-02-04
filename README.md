@@ -126,7 +126,8 @@ Workshops will be given live with a cheat sheet so students can either watch or 
 
 In the class we will be using four software platforms:
 
-ArcGIS Pro (CUNY has licenses): https://www.esri.com/en-us/arcgis/trial
+1. Make sure to sign up to your educational license (1-year free): https://learn-arcgis-learngis.hub.arcgis.com/pages/access-arcgis-software
+2. Then follow the steps to download ArcGIS Pro here: https://pro.arcgis.com/en/pro-app/latest/get-started/download-arcgis-pro.htm
 
 CityEngine (30 - day trial): https://community.esri.com/t5/arcgis-cityengine-documents/cityengine-trial-licenses/ta-p/910488
 
