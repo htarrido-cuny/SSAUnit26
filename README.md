@@ -130,7 +130,7 @@ Lectures will be given in the old school way, with a digital chalkboard and a di
 | Refreshing Computing and Data fundamentals	| 1.5	| TBD |
 | On unstructured collaboration: GitLab, Version Control, Agile Development	| 1	| TBD |
 | Point, lines, polygons, Multipatches, Tables, SQL Queries |	1	| TBD |
-| Introduction to Python	| 1	| TBD |
+| Introduction to CityEngine	| 1	| TBD |
 | Leveraging Python for Preprocessing Data	| 1	| TBD |
 | Non Geospatial Visualizations	| 1	| TBD |
 | Geospatial Visualizations	| 1	| TBD |
@@ -150,7 +150,7 @@ Workshops will be given live with a cheat sheet so students can either watch or 
 |Refreshing Computing and Data fundamentals	| 1.5 |	ArcGIS Pro, Python | |
 | On unstructured collaboration: GitLab, Version Control, Agile Development	| 1	| ArcGIS Pro | |
 | Point, lines, polygons, Multi-patches, Tables, SQL Queries | 1.5	| ArcGIS Pro	 | | 
-| Introduction to Python	 | 1.5 	| Python	 | |
+| Introduction to City Engine	 | 1.5 	| Python	 | |
 | Leveraging Python for Preprocessing Data	 | 1.5	| Python | |	
 | Non Geospatial Visualizations	| 1.5 |	Python | |	
 | Geospatial Visualizations	| 1.5	| ArcGIS Pro | |
