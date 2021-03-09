@@ -75,9 +75,9 @@ The overall class schedule will be as follow:
 | Mar 4, 2021 | 4-5pm | 1 | Studio Time |  |
 | Mar 5, 2021 | 5-6:30pm| 1.5 | Workshop | Point, lines, polygons, multipatches, tables, SQL Queries  | PDF + Online Course |
 | Mar 8, 2021 | 4-5pm | 1 | Studio Time |  |
-| Mar 9, 2021 | 5-6pm | 1 | Lecture | Introduction to Python | Class notes|
+| Mar 9, 2021 | 5-6pm | 1 | Lecture | Introduction to CityEngine | Class notes|
 | Mar 11, 2021 | 4-5pm | 1 | Studio Time |  |
-| Mar 12, 2021 | 5-6:30pm| 1.5 | Workshop | Introduction to Python | PDF + Online Course |
+| Mar 12, 2021 | 5-6:30pm| 1.5 | Workshop | Introduction to CityEngine | PDF + Online Course |
 | Mar 15, 2021 | 4-5pm | 1 | Studio Time |  |
 | Mar 16, 2021 | 5-6pm | 1 | Lecture | Leveraging Python for Preprocessing Data | Class notes|
 | Mar 18, 2021 | 4-5pm | 1 | Studio Time |  |
