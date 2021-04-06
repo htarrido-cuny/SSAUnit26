@@ -83,31 +83,31 @@ The overall class schedule will be as follow:
 | Mar 18, 2021 | 4-5pm | 1 | Studio Time |  |
 | Mar 19, 2021 | 5-6:30pm | 1.5 | Workshop | Introduction to CityEngine - Part 2| Online Course |
 | Mar 22, 2021 | 4-5pm | 1 | Studio Time |  |
-| Mar 23, 2021 | 5-6pm | 1 | Lecture | Introduction to CityEngine - Part 3 | Class notes|
+| Mar 23, 2021 | 5-6pm | 1 | Lecture | Post Midterm No Class | Class notes|
 | Mar 25, 2021 | 4-5pm | 1 | Studio Time |  |
-| Mar 26, 2021 | 5-6:30pm | 1.5 | Workshop | Introduction to CityEngine - Part 3 | Online Course |
+| Mar 26, 2021 | 5-6:30pm | 1.5 | Workshop | Post Midterm No Class | Online Course |
 | Mar 29, 2021 |  |  | No Meeting |  |
 | Apr 1, 2021 |  |  | No Meeting |  |
 | Apr 5, 2021 | 4-5pm | 1 | Studio Time |  |
-| Apr 6, 2021 | 5-6pm | 1 | Lecture | Geospatial Visualizations | Class notes|
+| Apr 6, 2021 | 5-6pm | 1 | Lecture | Introduction to CityEngine - Part 3  | Class notes|
 | Apr 8, 2021 | 4-5pm | 1 | Studio Time |  |
-| Apr 9, 2021 | 5-6:30pm | 1.5 | Workshop | Geospatial Visualizations | Online Course |
+| Apr 9, 2021 | 5-6:30pm | 1.5 | Workshop |Introduction to CityEngine - Part 3  | Online Course |
 | Apr 12, 2021 | 4-5pm | 1 | Studio Time |  |
-| Apr 13, 2021 | 5-6pm | 1 | Lecture | Introduction to Statistical Analysis | Class notes|
+| Apr 13, 2021 | 5-6pm | 1 | Lecture | Introduction to CityEngine - Part 4 | Class notes|
 | Apr 15, 2021 | 4-5pm | 1 | Studio Time |  |
-| Apr 16, 2021 | 5-6:30pm| 1.5 | Workshop | Introduction to Statistical Analysis | Online Course |
+| Apr 16, 2021 | 5-6:30pm| 1.5 | Workshop | Introduction to CityEngine - Part 4 | Online Course |
 | Apr 19, 2021 | 4-5pm | 1 | Studio Time |  |
-| Apr 20, 2021 | 5-6pm | 1 | Lecture | Densities | Class notes|
+| Apr 20, 2021 | 5-6pm | 1 | Lecture | What are Networks?  | Class notes|
 | Apr 22, 2021 | 4-5:30pm | 1.5 | Studio Time |  |
-| Apr 23, 2021 | 5-6:30pm | 1.5 | Workshop | Densities | Online Course |
+| Apr 23, 2021 | 5-6:30pm | 1.5 | Workshop | Networks - Part 1|  Online Course |
 | Apr 26, 2021 | 4-5:30pm | 1.5 | Studio Time |  |
-| Apr 27, 2021 | 5-6pm | 1 | Lecture | Networks 1 | Class notes|
+| Apr 27, 2021 | 5-6pm | 1 | Lecture | Networks - Part 2|  | Class notes|
 | Apr 29, 2021 | 4-5:30pm | 1.5 | Studio Time |  |
-| Apr 30, 2021 | 5-6:30pm | 1.5 | Workshop | What are Networks? | Online Course |
+| Apr 30, 2021 | 5-6:30pm | 1.5 | Workshop |  Networks - Part 3 | Online Course |
 | May 3, 2021 | 4-5:30pm | 1.5 | Studio Time |  |
-| May 4, 2021 | 5-6pm | 1 | Lecture | Networks 2 | Class notes|
+| May 4, 2021 | 5-6pm | 1 | Lecture | Networks - Part 4| Class notes|
 | May 6, 2021 | 4-5:30pm | 1.5 | Studio Time |  |
-| May 7, 2021 | 5-6:30pm | 1.5 | Workshop | Network Analysis | Online Course |
+| May 7, 2021 | 5-6:30pm | 1.5 | Workshop | Networks - Part 5 | Online Course |
 | May 10, 2021 | 4-5:30pm | 1.5 | Studio Time |  |
 | May 11, 2021 | 5-6pm | 1 | Lecture |  TBD | Class notes|
 | May 13, 2021 | 4-5:30pm | 1.5 | Studio Time |  |
