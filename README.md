@@ -105,19 +105,7 @@ The overall class schedule will be as follow:
 | Apr 29, 2021 | 4-5:30pm | 1.5 | Studio Time |  |
 | Apr 30, 2021 | 5-6:30pm | 1.5 | Workshop |  Networks - Part 3 | Online Course |
 | May 3, 2021 | 4-5:30pm | 1.5 | Studio Time |  |
-| May 4, 2021 | 5-6pm | 1 | Lecture | Networks - Part 4| Class notes|
-| May 6, 2021 | 4-5:30pm | 1.5 | Studio Time |  |
-| May 7, 2021 | 5-6:30pm | 1.5 | Workshop | Networks - Part 5 | Online Course |
-| May 10, 2021 | 4-5:30pm | 1.5 | Studio Time |  |
-| May 11, 2021 | 5-6pm | 1 | Lecture |  TBD | Class notes|
-| May 13, 2021 | 4-5:30pm | 1.5 | Studio Time |  |
-| May 14, 2021 | 5-6:30pm | 1.5 | Workshop | TBD | Online Course |
-| May 17, 2021 | 4-5:30pm | 1.5 | Studio Time |  |
-| May 18, 2021 | 5-6pm | 1 | Lecture | TBD | Class notes|
-| May 20, 2021 | 4-5pm | 1 | Studio Time |  |
-| May 21, 2021 | 5-6:30pm | 1.5 | Workshop | TBD | Online Course |
-| May 16, 2021 | 2-6pm |  | Final Review |  |
-| May 17, 2021 |  |  | Last day of classes |  |
+| May 14, 2021 | 1-6:30pm | | Final Review  |  |
 
 
 * This schedule is subject to change given Acts of God or changes in class schedule. This schedule content wise is meant to indicate direction of what is going to be taught, but the content might be subject to change given student input.
