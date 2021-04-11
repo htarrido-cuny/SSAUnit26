@@ -14,3 +14,4 @@ March 5,2021 | Points, Lines, Polygons, Multipatches, SQL Table | https://ccny.z
 March 9,2021 | Introduction to CityEngine | https://ccny.zoom.us/rec/share/lCd2pYHEF0ByCYvt_juUNNw8_KkBJppYEY5soaMG3trPS3WN-g8oeIQnJtQ-fjDX.bwdjo-PlA299xFjP?startTime=1615327154000 |
 March 12, 2021 | Design and Rules Part 1 - CityEngine | https://ccny.zoom.us/rec/share/_6bfU6PjIPRRvYM7MoTYC49pJAY37n1mTyy0hQUANosr79gumVu9YOkmQAaZn_7c.t8llXb8zeLc0Ra0M?startTime=1615586255000 |
 March 16, 2021 | Writting Advance Rules - CityEngine | https://ccny.zoom.us/rec/share/LOfMjwVHrkmVovNUh38aeKjWYdSy3DvdRVSKLy0e5ZdUnpCkHEB16kIZo5gboXD6.uEXTKqjgh3gdo2Td?startTime=1615928362000 |
+April 9, 2021 | Recursive functions in CE - CityEngine | https://ccny.zoom.us/rec/share/DJt5EcAY11n7A2pCPPJYJTj-Ba7XfHvkgjscDYISK1ykam97v-BaAtRsaJbpyTGW.W3tZvvkjuuBxNiYP?startTime=1618002008000
