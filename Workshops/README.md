@@ -16,3 +16,4 @@ March 12, 2021 | Design and Rules Part 1 - CityEngine | https://ccny.zoom.us/rec
 March 16, 2021 | Writting Advance Rules - CityEngine | https://ccny.zoom.us/rec/share/LOfMjwVHrkmVovNUh38aeKjWYdSy3DvdRVSKLy0e5ZdUnpCkHEB16kIZo5gboXD6.uEXTKqjgh3gdo2Td?startTime=1615928362000 |
 April 9, 2021 | Recursive functions in CE - CityEngine | https://ccny.zoom.us/rec/share/DJt5EcAY11n7A2pCPPJYJTj-Ba7XfHvkgjscDYISK1ykam97v-BaAtRsaJbpyTGW.W3tZvvkjuuBxNiYP?startTime=1618002008000 |
 April 13, 2021 | Applying rules to Networks and Streets | https://ccny.zoom.us/rec/share/oRBROx9I0opB6RheKO56Ao0aCtwpLFZirMiBadaXPjkVA-6j34qIHYgcDS09fRq-.MM7utatBFp-mX6ba?startTime=1618347436000 | 
+April 16, 2021 | Using Python in CityEngine | https://ccny.zoom.us/rec/share/98MT_Nhi_Wc--DMGPewC-JOk_6VeDHglSErBsGBoBerrU0PpqwhelrO9_nE-DAmJ.fbeVEKw_tJ2uWVK_?startTime=1618606921000 |
