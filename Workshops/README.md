@@ -20,3 +20,4 @@ April 16, 2021 | Using Python in CityEngine | https://ccny.zoom.us/rec/share/98M
 April 20, 2021 | CityEngine Jazz Design: Rules and Streets Again | https://ccny.zoom.us/rec/share/KaLBQuwbpH-mFl2El2py0sYyGnykpVB8Gc-MbP92_CGlebWmpV5VjSCkfD4_1jY5.5a1UKPMWSyz1P3r2?startTime=1618952771000 |
 April 27, 2021 | Network Analysis in ArcGIS and Rhino | https://ccny.zoom.us/rec/share/0KXxcERjWuQr0F1Xs8fEQir4BzaP6koAOozPPcp18KS-8NX3CNDz7jg59w7wZp0m.E31MLd7_JN-i1ltt?startTime=1619557258000 |
 May 5, 2021 | Creating a Network in GIS and using UNA | https://ccny.zoom.us/rec/share/U_O9F2tciN9D0P1OY4rqnPZ8XgYAsy6heTwZhaeJ1jQ-nzsiqc6XuzHD8eSkHZg.VUS7SV1is-PBUz7c?startTime=1620233739000 |
+May 5, 2021 | Import and Export from ArcGIS Pro to Rhino | https://ccny.zoom.us/rec/share/7aFe4vQzrz4y7SY6H9OZxvWDR_pqx7kLshORpqtO9tqrUsFKV_p-REOVusjXFEPk._w8_D5szlTuqJmhq?startTime=1620257261000 |
