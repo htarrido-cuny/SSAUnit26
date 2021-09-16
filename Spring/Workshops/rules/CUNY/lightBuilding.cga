@@ -1,0 +1,10 @@
+/**
+ * File:    lightBuilding.cga
+ * Created: 15 Mar 2021 02:04:41 GMT
+ * Author:  User
+ */
+
+version "2020.1"
+
+@StartRule
+Building --> color(1,1,1,0.55)

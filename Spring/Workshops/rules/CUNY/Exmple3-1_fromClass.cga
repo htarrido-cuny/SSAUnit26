@@ -1,0 +1,124 @@
+/**
+ * File:    Exmple3-1.cga
+ * Created: 16 Mar 2021 21:12:35 GMT
+ * Author:  User
+ */
+
+version "2020.1"
+
+
+#1: Setbacks, Skyplanes, complicated skyplanes
+#2: Platforms Basic
+#3: Platforms Advance: Visual Analysis, Baking the output, the village
+
+
+
+import converter: "meterToFeet.cga"
+
+@Enum("Y", "N")
+attr Skyplane = "N"
+
+attr Leftover_FAR = 0
+
+attr LotArea = 0
+
+attr maxFloorArea = 0
+
+attr RearYard = 30
+
+attr FrontYard = 10
+
+@Range(min=0,max=1)
+attr transparency = 0.5
+
+#attr BaseHeight = [40,65] #Narrow, Wide
+
+BaseHeight(streetType) =
+	case streetType == "Narrow": 40
+	else: 60 #wide
+	
+maxHeight(streetType) = 
+	case streetType == "Narrow": 75
+	else: 85 #Wide
+
+attr StepBackDistance = 15
+
+attr maxHeightSkyexposure = 400
+
+@Range(min=25, max=90)
+attr frontAngle1 = 45
+
+@Range(min=25, max=90)
+attr frontAngle2 = 60
+
+@Enum("Wide", "Narrow")
+attr StreetType = "Narrow"
+
+@Enum("QH", "Skyplane")
+attr EnvelopeType = "QH"
+
+@Range(min=0,max=90)
+attr SkyplaneAngle =  atan(5.6)
+
+#5.6 to 1
+
+@Hidden
+getStreetType = edgeAttr.getString("streetcategories")
+
+
+	
+############################################################
+
+@StartRule
+Parcel -->
+	set(maxFloorArea, LotArea * Leftover_FAR)
+	report("maxFloorArea", maxFloorArea)
+	#frontYard
+	ZoningEnvelope
+
+frontYard -->
+	setback(converter.feet(FrontYard)){street.front: randomColor | remainder: rearYard}
+	
+rearYard -->
+	setback(converter.feet(RearYard)){street.back: randomColor | remainder: NIL}
+
+	
+randomColor --> color(rand(1),rand(1), rand(1))
+
+ZoningEnvelope -->
+	case EnvelopeType != "Skyplane":
+		extrude(converter.feet(BaseHeight("Wide")))
+		print(getStreetType)
+		print(BaseHeight("Narrow"))
+		comp(f){top: Stepback}
+		transparentColor 
+		
+		
+	
+	else:
+		Skyplane(StreetType)
+		
+	
+transparentColor --> color(1,1,1,transparency )
+	
+Stepback -->
+	setback(converter.feet(StepBackDistance)){street.front:  balcony. | remainder: UpperPart}
+	
+attr upperPartHeight = 0
+
+UpperPart -->
+	set(upperPartHeight, converter.feet(maxHeight("Wide")-BaseHeight("Wide")))
+	extrude(upperPartHeight)
+	transparentColor
+	print(converter.meterTofeet(geometry.height()))
+	
+Skyplane(StreetType) -->	
+	envelope(world.up, converter.feet(maxHeightSkyexposure), converter.feet(BaseHeight(StreetType)), SkyplaneAngle )
+	#ZoningEnvelopeCorner
+	transparentColor 
+	
+ZoningEnvelopeCorner -->
+		envelope(world.up, converter.feet(maxHeightSkyexposure), #direction and maxheight
+      			comp(fe) { street.front:  converter.feet(BaseHeight(StreetType)) | street.back = converter.feet(BaseHeight(StreetType)) }, #baseHeight 
+      			comp(fe) {0: frontAngle1 | 1: frontAngle2 | all = 90 }) #angles for each skyplane
+	
