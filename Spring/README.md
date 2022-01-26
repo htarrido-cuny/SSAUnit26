@@ -21,9 +21,7 @@ In the class we will be using four software platforms:
 2. Then follow the steps to download ArcGIS Pro here: https://pro.arcgis.com/en/pro-app/latest/get-started/download-arcgis-pro.htm
 
 ### CityEngine
-We will be using CityEngine late in the semester. So please wait until I give instructions to install it given the 30-day limit.
-CityEngine (30 - day trial): https://community.esri.com/t5/arcgis-cityengine-documents/cityengine-trial-licenses/ta-p/910488
-
+We will be using CityEngine this semester as well. Make sure to brush up on the coding concepts of CGA
 
 ### Rhino (optional)
 Rhino / Grasshopper: https://www.rhino3d.com/download/
@@ -41,111 +39,28 @@ The students are expected to find and add new data resources to the repository. 
 - StreetEasy	https://streeteasy.com/blog/download-data/
 
 ## Office Hours
-I will have available office hours on Tuesday from 3:30pm to 4:30pm.
+Due to time limitation, office hours will 
 
-You can sign yourself here:
-
-https://doodle.com/mm/1473036352/officehours
-
-Please sign up a couple of days in advance.
-
-## About Class Schedule
+##Workshop Schedule
 
 The overall class schedule will be as follow:
 
-| Date | Time | Hours Allocated | Event | Subject | Deliverable for Student |
-| --- | --- | --- | --- |--- | --- |
-| Feb 4, 2021 | 11-12pm | 1 | Special Office Hours | Onboarding |  Installing software | Install ArcGIS |  Rhino |  CityEngine |
-| Feb 4,  2021 | 4-5pm | 1 | Studio Time |  |
-| Feb 5,  2021 | 5-6pm | 1 | Workshop | Where do I find Information? | GitHub Repo |
-| Feb 8 , 2021	 | 4-5pm | 	1 |	Studio Time		
-| Feb 9, 2021 |	5-6pm	| 1 |	Lecture |	Refreshing Computing and Data fundamentals - Part 1 |	 Class notes |
-| Feb 11, 2021 | 4-5pm | 	1 |	Studio Time		
-| Feb 12, 2021	| 5-6pm	| 1	| Workshop | 	Loading information into ArcGIS Pro | 	Online Course |
-| Feb 15, 2021 |  |  | No Meeting |  |
-| Feb 16, 2021 | 5-6pm | 1 | Lecture | Refreshing Computing and Data fundamentals - Part 2 | Class notes|
-| Feb 18, 2021 | 4-5pm | 1 | Studio Time |  |
-| Feb 19, 2021 | 5-6:30pm | 1.5 | Workshop | Python introduction | Online Course |
-| Feb 22, 2021 | 4-5pm | 1 | Studio Time |  |
-| Feb 23, 2021 | 5-6pm | 1 | Lecture | On unstructured collaboration: GitLab |  Version Control |  Agile Development | Class notes|
-| Feb 25, 2021 | 4-5pm | 1 | Studio Time |  |
-| Feb 26, 2021 | 5-6:30pm | 1.5 | Workshop | On unstructured collaboration: GitLab |  Version Control |  Agile Development | Online Course |
-| Mar 1, 2021 | 4-5pm | 1 | Studio Time |  |
-| Mar 2, 2021 | 5-6pm | 1 | Lecture | Point, lines, polygons, multipatches, tables, SQL Queries | Class notes|
-| Mar 4, 2021 | 4-5pm | 1 | Studio Time |  |
-| Mar 5, 2021 | 5-6:30pm| 1.5 | Workshop | Point, lines, polygons, multipatches, tables, SQL Queries  | Online Course |
-| Mar 8, 2021 | 4-5pm | 1 | Studio Time |  |
-| Mar 9, 2021 | 5-6pm | 1 | Lecture | Introduction to CityEngine - Part 1 | Class notes|
-| Mar 11, 2021 | 4-5pm | 1 | Studio Time |  |
-| Mar 12, 2021 | 5-6:30pm| 1.5 | Workshop | Introduction to CityEngine - Part 1 | Online Course |
-| Mar 15, 2021 | 4-5pm | 1 | Studio Time |  |
-| Mar 16, 2021 | 5-6pm | 1 | Lecture | Introduction to CityEngine - Part 2 | Class notes|
-| Mar 18, 2021 | 4-5pm | 1 | Studio Time |  |
-| Mar 19, 2021 | 5-6:30pm | 1.5 | Workshop | Introduction to CityEngine - Part 2| Online Course |
-| Mar 22, 2021 | 4-5pm | 1 | Studio Time |  |
-| Mar 23, 2021 | 5-6pm | 1 | Lecture | Post Midterm No Class | Class notes|
-| Mar 25, 2021 | 4-5pm | 1 | Studio Time |  |
-| Mar 26, 2021 | 5-6:30pm | 1.5 | Workshop | Post Midterm No Class | Online Course |
-| Mar 29, 2021 |  |  | No Meeting |  |
-| Apr 1, 2021 |  |  | No Meeting |  |
-| Apr 5, 2021 | 4-5pm | 1 | Studio Time |  |
-| Apr 6, 2021 | 5-6pm | 1 | Lecture | Introduction to CityEngine - Part 3  | Class notes|
-| Apr 8, 2021 | 4-5pm | 1 | Studio Time |  |
-| Apr 9, 2021 | 5-6:30pm | 1.5 | Workshop |Introduction to CityEngine - Part 3  | Online Course |
-| Apr 12, 2021 | 4-5pm | 1 | Studio Time |  |
-| Apr 13, 2021 | 5-6pm | 1 | Lecture | Introduction to CityEngine - Part 4 | Class notes|
-| Apr 15, 2021 | 4-5pm | 1 | Studio Time |  |
-| Apr 16, 2021 | 5-6:30pm| 1.5 | Workshop | Introduction to CityEngine - Part 4 | Online Course |
-| Apr 19, 2021 | 4-5pm | 1 | Studio Time |  |
-| Apr 20, 2021 | 5-6pm | 1 | Lecture | What are Networks?  | Class notes|
-| Apr 22, 2021 | 4-5:30pm | 1.5 | Studio Time |  |
-| Apr 23, 2021 | 5-6:30pm | 1.5 | Workshop | Networks - Part 1|  Online Course |
-| Apr 26, 2021 | 4-5:30pm | 1.5 | Studio Time |  |
-| Apr 27, 2021 | 5-6pm | 1 | Lecture | Networks - Part 2|  | Class notes|
-| Apr 29, 2021 | 4-5:30pm | 1.5 | Studio Time |  |
-| Apr 30, 2021 | 5-6:30pm | 1.5 | Workshop |  Networks - Part 3 | Online Course |
-| May 3, 2021 | 4-5:30pm | 1.5 | Studio Time |  |
-| May 14, 2021 | 1-6:30pm | | Final Review  |  |
+| Date | Time | Hours Allocated | Event | Subject |
+| --- | --- | --- | --- |--- | 
+| Feb 3, 2021 | 9-12pm | 3 | Coffee and Code | Downloading Software and Objectives, Data
+| Feb 10, 2021 | 9-12pm | 3 | Coffee and Code | Python Refresh 1
+| Feb 17, 2021 | 9-12pm | 3 | Coffee and Code | Python Refresh 2
+| Feb 24, 2021 | 9-12pm | 3 | Coffee and Code | Python Refresh 3
+| Mar 3, 2021 | 9-12pm | 3 | Coffee and Code | Open Discussion, Questions
+| Mar 10, 2021 | 9-12pm | 3 | Coffee and Code | Networks 1
+| Mar 17, 2021 | 9-12pm | 3 | Coffee and Code | Networks 2
+| Mar 24, 2021 | 9-12pm | 3 | Coffee and Code | Networks 3
+| Mar 31, 2021 | 9-12pm | 3 | Coffee and Code | Flow Diagrams 1
+| Apr 7, 2021 | 9-12pm | 3 | Coffee and Code | Flow Diagrams 2
+| Apr 14, 2021 | 9-12pm | 3 | Coffee and Code | Flow Diagrams 3
+| Apr 21, 2021 | 9-12pm | 3 | Coffee and Code | Spring Break
+| Apr 28, 2021 | 9-12pm | 3 | Coffee and Code | Open Discussion
+| May 5, 2021 | 9-12pm | 3 | Coffee and Code | Open Discussion
 
 
-* This schedule is subject to change given Acts of God or changes in class schedule. This schedule content wise is meant to indicate direction of what is going to be taught, but the content might be subject to change given student input.
-
-### Mini-Lectures
-Lectures will be given in the old school way, with a digital chalkboard and a digital paper. Powerpoint slide will not be used. The lectures will NOT be recorded and students are expected to take notes and actively ask questions and participate in the subject matter that is being presented. The mini-lecture series will be as follows:
-
-| Lectures	| Hours for Lecture |	Content Link |
-| --- | --- | --- | 
-| Refreshing Computing and Data fundamentals	| 1.5	| TBD |
-| On unstructured collaboration: GitLab, Version Control, Agile Development	| 1	| TBD |
-| Point, lines, polygons, Multipatches, Tables, SQL Queries |	1	| TBD |
-| Introduction to CityEngine	| 1	| TBD |
-| Leveraging Python for Preprocessing Data	| 1	| TBD |
-| Non Geospatial Visualizations	| 1	| TBD |
-| Geospatial Visualizations	| 1	| TBD |
-| Introduction to Statistical Analysis | 1 | TBD |
-| Densities	| 1	| TBD |
-| What are Networks?	| 1	| TBD |
-| What do networks tell us? |	1	| TBD |
-| Building Workflows: GIS, CityEngine, Rhino |	1	| TBD |
-| Leveraging Python in CityEngine	| 1	| TBD |
-
-### Workshops
-Workshops will be given live with a cheat sheet so students can either watch or follow along later after the workshop. Students are encouraged to follow along to increase brain muscle-information memory of what we are doing. The workshops will be recorded for students to later visit. Students are expected to use what was taught in the workshop into their studio research and projects. The workshops series will be as follows:
-
-| Workshops	| Hours |	Software	| Cheat Sheet Link |
-| --- | --- | --- | --- |
-| Where do I find information? |	1	| Web | |	
-|Refreshing Computing and Data fundamentals	| 1.5 |	ArcGIS Pro, Python | |
-| On unstructured collaboration: GitLab, Version Control, Agile Development	| 1	| ArcGIS Pro | |
-| Point, lines, polygons, Multi-patches, Tables, SQL Queries | 1.5	| ArcGIS Pro	 | | 
-| Introduction to City Engine	 | 1.5 	| Python	 | |
-| Leveraging Python for Preprocessing Data	 | 1.5	| Python | |	
-| Non Geospatial Visualizations	| 1.5 |	Python | |	
-| Geospatial Visualizations	| 1.5	| ArcGIS Pro | |
-| Introduction to Statistical Analysis	 | 1.5 | ArcGIS Pro, Python | |
-| Densities |	1.5 |	ArcGIS Pro	 | |
-| What are Networks? | 	1.5 |	ArcGIS Pro	 | |
-| What do networks tell us? |	1.5 |	ArcGIS Pro | |	
-| Building Workflows: GIS, CityEngine, Rhino |	 1.5 |	ArcGIS Pro, CityEngine, Rhino	| |
-| Leveraging Python in CityEngine |	1.5 |	Python	| |
 
