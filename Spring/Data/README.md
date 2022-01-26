@@ -2,8 +2,6 @@
 
 This folder is the data commons for the class. Any new data set we will centralize here:
 
-## CUNY SSA Unit26 - Central Geodatabase
+## CUNY SSA Unit26 - ArcGIS Online
 
-https://learngis4.maps.arcgis.com/home/item.html?id=e4b150dfc01247a3a95652aacf85e406
-
-https://www.dropbox.com/sh/3oqyh8odaq8uub4/AAA5ksirRQSNe9xM4NYl6J8ga?dl=0
+https://ccny.maps.arcgis.com/home/content.html?view=table&sortOrder=desc&sortField=modified&folder=96d08f798f8a459eb4f860f229463af5#content
